@@ -1,0 +1,1 @@
+# regatta-hotel.github.io

@@ -1,0 +1,15 @@
+.food {
+    display: flex;
+    margin: 80px;
+}
+
+.title {
+    margin-left: 66px;
+    font-size: 40px;
+    color: #377964;
+}
+
+.food ul li {
+    display: block;
+    font-size: 19px;
+}

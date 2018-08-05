@@ -1,0 +1,510 @@
+.logo  { position:relative; 
+    left:300px;
+    top:50px
+      }
+    
+    .Resort   {
+    /* position:relative;
+    left:250px;
+    bottom:185px; */
+    width: 40%;
+    display: inline;
+    }
+    
+    .Resort2 {
+    /* position:relative;
+    left:778px;
+    bottom:537px; */
+    width: 40%;
+    display: inline;
+    
+    }
+
+    .home-images {
+        margin: auto;
+        width: 80%;
+        margin-top: 70px;
+    }
+    
+    
+    .Mainsection{ 
+    color:white; 
+    font-weight:bold;
+    font-size : 25px;
+    background-color:#CD5C5C;
+    padding:10px;
+    padding-left:120px;
+    position:relative;
+    left:250px;
+    bottom:-55px; 
+    width:70px;
+    }
+    .About { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    position:relative;
+    bottom:-7px; left:452px;
+    width:70px;
+    ;
+    }
+    
+    .Rooms {color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:41px;
+    left:608px;
+    }
+    
+    .Food { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:89px;
+    left:765px;
+    
+    }
+    .News { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:137px;
+    left:922px;
+    }
+    
+    .Contact { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:120px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:185px;
+    left:1078px;
+    
+    }
+
+    .SpecialOffers {
+      color:red; 
+      font-weight:bold;
+      font-size : 25px;
+      background-color:#CD5C5C;
+      padding:10px;
+      padding-left:120px;
+      position:relative;
+      left:250px;
+      bottom:-55px; 
+      width:70px;
+      }
+  
+    
+    
+    h1 {color:white;
+    background-color:#191970;
+    padding:25px;	
+     position:relative;
+     left:250px;
+     bottom:-77px;
+    width:1004px;
+    }    
+    
+    /* a:link{color:white;
+    text-decoration:none;} 
+    a:visited{color:white;}
+    a:hover{background-color:#191970;
+        color:white;
+    
+    
+    } */
+    
+    .lastthing {
+        background-color:gray;
+        font-size:25px;
+        padding:5px;
+        padding-left:25px;
+        width:1010px;
+        position:relative;
+        bottom:450px;
+        left:245px;
+    }
+    
+    
+    
+      
+    .topic {
+        width: 80%;
+        font-size:19px;
+        margin: auto;   
+    }
+    
+    
+    .lastthing2{ position:relative;
+      bottom:430px;
+      left:520pZx;
+    }
+    /* a:link{color:white;
+        text-decoration:none;}
+        a:visited{ color:white;}
+        a:hover{color:white;} */
+        
+
+.room1 {     
+
+position:relative;
+left:683px;
+bottom:184px;
+
+}
+
+.roomds {font-size:40px;
+color:#377964;
+position:relative;
+bottom:510px;
+left:295px;
+}
+.room1list {  font-size:20px;
+position:relative; 
+bottom:490px;
+left:255px;
+}
+
+
+
+
+
+.room2 {position:relative;
+bottom:430px;
+left:680px;
+}
+.roomsforfamily {font-size:40px;
+color:#377964;
+position:relative;
+bottom:790px;
+left:280px;  
+
+}
+
+
+
+
+.Resort2 {
+/* position:relative;
+left:778px;
+bottom:538px; */
+
+}
+.room2list {font-size:20px;
+position:relative; 
+bottom:750px;
+left:250px;
+}
+
+.lastthing2 { 
+background-color:gray;
+font-size:25px;
+padding:5px;
+padding-left:25px;
+width:1025px;
+position:relative;
+bottom:650px;
+left:245px;
+
+
+}   
+
+
+
+.Mainsection{ color:white; 
+font-weight:bold;
+font-size : 25px;
+background-color:#CD5C5C;
+padding:10px;
+padding-left:120px;
+position:relative;
+left:250px;
+bottom:-55px; 
+width:70px;
+
+
+}
+.About { color:white; 
+font-size : 25px;
+background-color:#CD5C5C;
+font-weight:bold;
+padding:10px;
+padding-right:50px;
+padding-left:35px;
+position:relative;
+bottom:-7px; left:452px;
+width:70px;
+;
+}
+
+.Rooms {color:white; 
+font-size : 25px;
+background-color:#CD5C5C;
+font-weight:bold;
+padding:10px;
+padding-right:50px;
+padding-left:35px;
+width:70px;
+position:relative;
+bottom:41px;
+left:608px;
+}
+
+.Food { color:white; 
+font-size : 25px;
+background-color:#CD5C5C;
+font-weight:bold;
+padding:10px;
+padding-right:50px;
+padding-left:35px;
+width:70px;
+position:relative;
+bottom:90px;
+left:765px;
+
+}
+.News { color:white; 
+font-size : 25px;
+background-color:#CD5C5C;
+font-weight:bold;
+padding:10px;
+padding-right:50px;
+padding-left:35px;
+width:70px;
+position:relative;
+bottom:138px;
+left:922px;
+}
+
+.Contact { color:white; 
+font-size : 25px;
+background-color:#CD5C5C;
+font-weight:bold;
+padding:10px;
+padding-right:120px;
+padding-left:35px;
+width:70px;
+position:relative;
+bottom:186px;
+left:1078px;
+
+}
+
+
+h1 {color:white;
+background-color:#191970;
+padding:25px;	
+position:relative;
+left:250px;
+bottom:-77px;
+width:1004px;
+}
+
+    .logo  { position:relative; 
+    left:300px;
+    top:50px
+        }
+    .foodimg {position:relative;
+    left:682px;
+    bottom:175px;
+    
+    
+    }
+        
+    .dessert {position:relative;
+    top:90px;
+    left:415px;     
+    
+    
+    
+    } 
+        
+        
+        
+        
+        
+    .foodinrestaurant { font-size:40px;
+    color:#377964;
+    position:relative; bottom:565px; 
+    left:295px; 
+        }
+    .foodlist{   font-size:20px;
+        position:relative; bottom:560px; 
+    left:265px;
+    
+    } 
+    
+    .dessertinrestaurant {
+    font-size:40px;
+    color:#377964;
+    position:relative; bottom:275px; 
+    left:20px; 
+    }
+    
+    .dessertlist {font-size:20px;
+    position:relative; 
+    bottom:250px;
+    
+        }
+    
+    
+    
+    
+    
+    .Mainsection{ color:white; 
+    font-weight:bold;
+    font-size : 25px;
+    background-color:#CD5C5C;
+    padding:10px;
+    padding-left:120px;
+    position:relative;
+    left:250px;
+    bottom:-55px; 
+    width:70px;
+    
+    
+    }
+    .About { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    position:relative;
+    bottom:-7px; left:452px;
+    width:70px;
+    ;
+    }
+    
+    .Rooms {color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:41px;
+    left:608px;
+    }
+    
+    .Food { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:90px;
+    left:765px;
+    
+    }
+    .News { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:50px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:138px;
+    left:922px;
+    }
+    
+    .Contact { color:white; 
+    font-size : 25px;
+    background-color:#CD5C5C;
+    font-weight:bold;
+    padding:10px;
+    padding-right:120px;
+    padding-left:35px;
+    width:70px;
+    position:relative;
+    bottom:186px;
+    left:1078px;
+    
+    }
+    
+    
+    h1 {color:white;
+    background-color:#191970;
+    padding:25px;	
+        position:relative;
+        left:250px;
+        bottom:-77px;
+    width:1004px;
+    }
+
+    .inline {
+        display: inline;
+    }
+    
+    .enjoy {
+        width: 80%;
+        margin: auto;
+        margin-top: 30px;
+    }
+            
+    
+    /* a:link{color:white;
+    text-decoration:none;} 
+    a:visited{color:white;}
+    a:hover{background-color:#191970;
+        color:white;
+    
+    
+    } */
+
+    .head-title {
+        margin-left: -115px;
+        margin-bottom: 95px;
+    }
+    
+    
+    
+    .lastthing2 { 
+    background-color:gray;
+    font-size:25px;
+    padding:5px;
+    padding-left:25px;
+    width:1025px;
+    position:relative;
+    bottom:150px;
+    left:-15px;
+    }
+    
+    .lastthing3  {   position:relative;
+    bottom:130px;
+    left:230px;
+    
+    
+    }
